@@ -41,7 +41,7 @@ The total for unpaid 5-star reviews are 43,217.
 
 # Summary
 With nearly 60% of the beauty product reviews being upaid, the data appears to be unbaised 5 star reviews.  
-We could also compare the total number of verified to unverified purchases and review the data to see if may change the results.  
+We could also compare the total number of verified to unverified purchases and review the data to see if that may affect the results.  
 
 
 
